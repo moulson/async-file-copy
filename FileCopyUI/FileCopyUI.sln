@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCopyUI", "FileCopyUI.csproj", "{DB575F71-0F39-43F6-B72A-6D8C57A0EA7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCopy", "..\FileCopy\FileCopy.csproj", "{BAFC481B-FE04-46D0-8A70-D6C28D709CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB575F71-0F39-43F6-B72A-6D8C57A0EA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB575F71-0F39-43F6-B72A-6D8C57A0EA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB575F71-0F39-43F6-B72A-6D8C57A0EA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB575F71-0F39-43F6-B72A-6D8C57A0EA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFC481B-FE04-46D0-8A70-D6C28D709CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFC481B-FE04-46D0-8A70-D6C28D709CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFC481B-FE04-46D0-8A70-D6C28D709CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFC481B-FE04-46D0-8A70-D6C28D709CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3B844DB-EFEA-42C0-B8CE-5536E45249E6}
+	EndGlobalSection
+EndGlobal
